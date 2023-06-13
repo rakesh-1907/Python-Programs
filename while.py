@@ -16,15 +16,5 @@
 
 
 
-i=1
-
-while i<=5:
-    print("Python Is",end=" ")
-
-    j=1
-    while j<=4:
-        print("Awsome",end=" ")
-        j=j+1
-
-    i=i+1
-    print()
+for i in range (1,10,1):
+    print(i)
