@@ -18,3 +18,5 @@ for e in arr:
         break
 
     k+=1
+
+print(arr.index(val)) # this is  function to print index value of the value #  if you using this function u do not need use any loop.
